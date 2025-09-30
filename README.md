@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Om
 
-🎓 Computer Engineering Student | 💻 Beginner Developer | 🚀 Aspiring AI & Game Creator  
+🎓 Computer Engineering Student | 💻 Intermediate Developer | 🚀 Aspiring AI & Game Creator  
 🧠 Motto: Start at Step 0 — break things down, build them up.
 
 ---
