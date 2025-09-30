@@ -25,8 +25,7 @@
 - 📱 SQL Command App — App with login, SQL execution, history, and learning features
 - 🤖 Yantra AI — Personal AI assistant (offline + online hybrid)
 - 🎮 Horror-Fantasy Hybrid Game — Story-driven 2D/3D game with loops, magic, and survival elements
-- 🖥️ AI Studio Assistant — Local AI-powered Android Studio plugin for coding help
-
+  
 ---
 
 ## 🌐 Connect With Me
