@@ -36,6 +36,7 @@
 ---
 
 ## 📈 GitHub Stats
+![](https://github-readme-stats.shion.dev/api?username=ompatel3158&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![Om's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ompatel3158&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ompatel3158&layout=compact&theme=tokyonight)
 
