@@ -10,7 +10,7 @@
 - 🌱 Learning and building in App Development, Game Development, and AI Systems
 - 🧩 Problem-solver who likes to break things down step by step
 - 🎮 I love creating games, apps, and creative AI projects
-- 📹 I also create Minecraft content on YouTube → SPECIAL FORCE ELITE GAMING
+- 📹 I also create Minecraft content on YouTube → [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@SPECIALFORCEELITEGAMING1) 
 - ⚡ Fun fact: I always start with Step 0 in any project!
 
 ---
